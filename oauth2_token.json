@@ -1,0 +1,13 @@
+{
+  "token_type": "bearer",
+  "expires_in": 7200,
+  "access_token": "VG1VZlA2TzdsNUFvLVVBWGlnS1Q2MFBsS0ttRzRPaWMyQW9ybElBeTJ4bW9sOjE3NjA5NzIxMzU5NTA6MTowOmF0OjE",
+  "scope": [
+    "like.write",
+    "users.read",
+    "tweet.read",
+    "offline.access"
+  ],
+  "refresh_token": "a1BZUm1aWDNXcDRZdXlnYl9Xb1BfekpvODNncDBnYU1mdEFaRWtpbmtKeFMyOjE3NjA5NzIxMzU5NTA6MToxOnJ0OjE",
+  "expires_at": 1760979335
+}
